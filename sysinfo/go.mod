@@ -1,4 +1,4 @@
-module github.com/nikola43/getsysteminformationgolang
+module github.com/nikola43/getsysteminformationgolang/sysinfo
 
 go 1.18
 

@@ -1,1 +1,1 @@
-go get -u github.com/Nikola43/getsysteminformationgolang
+go get -u github.com/nikola43/getsysteminformationgolang

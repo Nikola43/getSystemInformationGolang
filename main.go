@@ -1,13 +1,11 @@
 package main
 
 import (
-    "fmt"
-    "github.com/nikola43/getsysteminformationgolang/sysinfo"
-
+	"fmt"
 )
 
 func main() {
-    info := newSysInfo()
+    info := SysInfo()
     fmt.Printf("%+v\n", info)
 	fmt.Printf("%+s\n", info.toString())
 	fmt.Printf("%+s\n", info.toHash())
